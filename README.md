@@ -1,4 +1,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Counter"  />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_color=red&right_color=green) 
 
 ###
 [![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)

@@ -146,3 +146,6 @@
 
 ![Snake animation] (https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debasishray16)](https://github.com/debasishray16/github-readme-stats)
+
+
+![Github Activity Graph](<https://github-readme-activity-graph-neon.vercel.app.vercel.app/graph?username=debasishray16)

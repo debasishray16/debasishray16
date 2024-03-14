@@ -147,4 +147,4 @@
 ![Snake animation] (https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debasishray16)](https://github.com/debasishray16/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=f41a1a&line=4e03ab&point=f500a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

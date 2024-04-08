@@ -1,5 +1,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Counter&left_color=black&right_color=red"  />
 
+
 ###
 [![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)
 <br clear="both">
@@ -10,7 +11,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="right">
@@ -33,7 +33,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <h1 align="center">Hello There, I'm Debasish Ray</h1>
@@ -44,10 +43,9 @@
 
 ###
 
-<p align="left">Hey there, I'm Debasish Ray! I'm a student at SRMIST pursuing Computer Science and  Engineering (Core.). I'm passionate about Web development and creating solutions through websites for businesses and individuals in need. On the side, I also do, IoT development aiming to improve the present condition of society.</p>
+<p align="left"> Hey there, I'm Debasish Ray! I'm a student at SRMIST pursuing Computer Science and  Engineering (Core.). I'm passionate about Web development and creating solutions through websites for businesses and individuals in need. On the side, I also do, IoT development aiming to improve the present condition of society.</p>
 
 ###
-
 <br clear="both">
 
 ###
@@ -67,7 +65,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -145,6 +142,7 @@
 ###
 
 ![Snake animation] (https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debasishray16)](https://github.com/debasishray16/github-readme-stats)
 
 

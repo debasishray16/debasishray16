@@ -142,12 +142,19 @@
 ###
 
 ![Snake animation] (https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
   
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debasishray16&theme=dark&layout=compact)](https://github.com/debasishray16/github-readme-stats)
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
+
+
+<h3>Currently Working on: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)

@@ -151,7 +151,7 @@
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast)](https://github.com/debasishray16/WeatherCast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
 
 

@@ -11,8 +11,21 @@
 </div>
 
 ###
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=4000&pause=1300&color=000000&vCenter=true&random=false&width=1000&height=100&lines=Welcome+to+my+Profile;Myself%2C+Debasish+Ray;A+Pre-Final+Year++Undergraduate+Student;Scroll+Down+(%7C)" alt="Typing SVG" /></a>
+</div>
+
 <br clear="both">
 
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"> Hey there, I'm Debasish Ray! I'm a student at SRMIST pursuing Computer Science and  Engineering (Core.). I'm passionate about Web development and creating solutions through websites for businesses and individuals in need. On the side, I also do, IoT development aiming to improve the present condition of society.</p>
+
+<br clear="both">
+
+###
 <div align="right">
   <a href="https://www.linkedin.com/in/debasish-ray-a76aba20b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -32,20 +45,7 @@
   </a>
 </div>
 
-###
-<br clear="both">
 
-<h1 align="center">Hello There, I'm Debasish Ray</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> Hey there, I'm Debasish Ray! I'm a student at SRMIST pursuing Computer Science and  Engineering (Core.). I'm passionate about Web development and creating solutions through websites for businesses and individuals in need. On the side, I also do, IoT development aiming to improve the present condition of society.</p>
-
-###
 <br clear="both">
 
 ###

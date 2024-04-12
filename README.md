@@ -152,9 +152,9 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast)](https://github.com/debasishray16/WeatherCast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify)](https://github.com/debasishray16/Passwordify)
 
 
 <h3>Currently Working on: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor)](https://github.com/debasishray16/StockPredictor)

@@ -1,5 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Counter&left_color=black&right_color=red"  />
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=debasishray16&label=Visited&pretty=false" />
+</a>
 
 ###
 [![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)

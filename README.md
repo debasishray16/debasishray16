@@ -141,6 +141,8 @@
 
 ###
 
+![My Skills](https://skillicons.dev/icons?i=git,github,arduino,mongodb,html,css,figma)
+
 ![Snake animation] (https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
 
 

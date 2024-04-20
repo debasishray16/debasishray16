@@ -157,12 +157,12 @@
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast)](https://github.com/debasishray16/WeatherCast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify)](https://github.com/debasishray16/Passwordify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
 
 
 <h3>Currently Working on: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor)](https://github.com/debasishray16/StockPredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
 
 [![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

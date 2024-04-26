@@ -14,9 +14,7 @@
 </div>
 
 ###
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=4000&pause=1300&color=000000&vCenter=true&random=false&width=1000&height=100&lines=Welcome+to+my+Profile;Myself%2C+Debasish+Ray;A+Pre-Final+Year++Undergraduate+Student;Scroll+Down+(%7C);...." alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&size=40&duration=4000&pause=1000&color=F70B0B&center=true&vCenter=true&random=false&width=1000&height=100&lines=Myself%2C+Debasish+Ray;Welcome+to+my+profile;....." alt="Typing SVG" /></a>
 
 <br clear="both">
 

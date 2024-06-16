@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Counter&left_color=black&right_color=red"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Counter&left_color=black&right_color=red"  />
 
 
 <a href="https://visitcount.itsvg.in">

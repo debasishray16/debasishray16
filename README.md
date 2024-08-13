@@ -29,7 +29,7 @@
   <img src="images/John Smith.png" height="470">
 </div>
 
-<br clear="both">
+
 <br clear="both">
 
 <h2> About </h3>
@@ -101,8 +101,9 @@ technical_background:
 <div>
 
 <div align="center">
-  
+
   ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+  
 </div>
 
 <h2>🚧 Work in Progress</h2>
@@ -155,4 +156,5 @@ technical_background:
 </div>
 
 <h2></h2>
+
 

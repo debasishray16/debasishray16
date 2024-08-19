@@ -5,7 +5,9 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=ようこそみなさん!&animation=fadeIn&type=waving&color=&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=ようこそみなさん!&animation=fadeIn&type=waving&height=90"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </p>
 
 <br clear="both">
@@ -157,4 +159,6 @@ technical_background:
 
 <h2></h2>
 
-
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
+</div>

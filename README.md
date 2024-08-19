@@ -4,11 +4,10 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=ようこそみなさん!&animation=fadeIn&type=waving&height=90"/>
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
-</p>
+</div>
 
 <br clear="both">
 
@@ -23,7 +22,7 @@
 
 </div>
 
-<h2 align="center" >" 私、デバシッシュ・レイ（獅堂影能）が、Shadow Gardenへようこそ。"</h2>
+<h2 align="center">" 私、デバシッシュ・レイ（獅堂影能）が、Shadow Gardenへようこそ。"</h2>
 
 <p align="left">「私は…原子だ。」 「自分が立っている場所を頂上と決めたら、もう動かない。」 「今、私はビルの頂上から劇的に飛び降りる。これで、死ぬまでにやりたいことリストの項目がまたひとつ増えた！」 「子供の不安を無視すると、非行に走る。」 「私は自分のものを取り戻す。全部だ。」</p>
 

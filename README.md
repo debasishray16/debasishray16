@@ -70,6 +70,15 @@ technical_background:
 
 <br clear="both">
 
+<div align="center">
+<p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true)"/>
+</a>
+</p>
+</div>
+<br clear="both">
+
 <h2 align="left">🛠 Language and Tools</h2>
 
 <div align="center">
@@ -149,6 +158,7 @@ technical_background:
 ###
 
 [![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
 

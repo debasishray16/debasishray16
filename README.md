@@ -9,10 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
 
-<br clear="both">
-
 <h1 align="center"></h1>
-
 
 <div align="center">
 
@@ -27,7 +24,7 @@
 <p align="left">「私は…原子だ。」 「自分が立っている場所を頂上と決めたら、もう動かない。」 「今、私はビルの頂上から劇的に飛び降りる。これで、死ぬまでにやりたいことリストの項目がまたひとつ増えた！」 「子供の不安を無視すると、非行に走る。」 「私は自分のものを取り戻す。全部だ。」</p>
 
 <div align="center">
-  <img src="images/John Smith.png" height="470">
+  <img src="images/John Smith.png" height="90%" width="90%">
 </div>
 
 
@@ -142,10 +139,6 @@ technical_background:
   <div>
   <div>
 </div>
-
-###
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debasishray16)](https://github.com/debasishray16/github-readme-stats)
   
 ###
 

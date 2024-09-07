@@ -169,5 +169,6 @@ technical_background:
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/John.png?token=AJ7VCKWLRI5SPYERL444DKDG3THORAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=180px width=180px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 </a>

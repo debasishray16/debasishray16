@@ -169,6 +169,6 @@ technical_background:
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/John.png?token=AJ7VCKQHNOUXDUUQMENV4QDG3THPBAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=180px width=180px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/shadow-garden.jpeg?token=AJ7VCKRPNH2DEQVGMHDMWALG3TIZ3AVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=90% width=90% align=center alt=Image ALT />
 <!--END_SECTION:update_image-->
 </a>

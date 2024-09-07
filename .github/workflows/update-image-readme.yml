@@ -11,7 +11,7 @@ jobs:
     name: Update Image README
     runs-on: ubuntu-latest
     steps:
-      - uses: debasishray16/update-readme-image@main
+      - uses: debasishray16/debasishray16@main
         with:
           HEIGHT: 180px       # default
           WIDTH: 180px        # default

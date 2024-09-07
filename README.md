@@ -164,3 +164,10 @@ technical_background:
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
+
+
+
+<a href="https://github.com/marketplace/actions/update-image-readme">
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+</a>

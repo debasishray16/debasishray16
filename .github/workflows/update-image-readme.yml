@@ -11,7 +11,7 @@ jobs:
     name: Update Image README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/update-readme-image@main
+      - uses: siddharth2016/update-readme-image@0.1.1
         with:
           HEIGHT: 85%       # default
           WIDTH: 85%        # default

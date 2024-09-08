@@ -27,6 +27,15 @@
   <img src="images/John Smith.png" height="90%" width="90%">
 </div>
 
+<div align="center">
+<a href="https://github.com/marketplace/actions/update-image-readme">
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Gamma.jpg?token=AJ7VCKW3GBMXBPJE72RHIL3G3W4CDAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<!--END_SECTION:update_image-->
+</a>
+
+</div>
+
 
 <br clear="both">
 
@@ -165,8 +174,3 @@ technical_background:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
 
-<a href="https://github.com/marketplace/actions/update-image-readme">
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Gamma.jpg?token=AJ7VCKW3GBMXBPJE72RHIL3G3W4CDAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
-<!--END_SECTION:update_image-->
-</a>

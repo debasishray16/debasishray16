@@ -26,11 +26,10 @@
 <div align="center">
   <img src="images/John Smith.png" height="90%" width="90%">
 </div>
-
+ 
 <div align="center">
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Gamma.jpg?token=AJ7VCKW3GBMXBPJE72RHIL3G3W4CDAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

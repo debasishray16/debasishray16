@@ -30,6 +30,7 @@
 <div align="center">
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/shadow-garden.jpeg?token=AJ7VCKRH4UOWMIB7ZQNGF7TG3W5CDAVPNFXHG5DBNRWGC5DJN5XF62LEZZ2RQPXJWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

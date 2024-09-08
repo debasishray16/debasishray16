@@ -3,8 +3,8 @@ name: Update Image Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 1 UTC everyday
-    - cron: "*/1 * * * *"
+    # Runs at 12 AM UTC everyday
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          HEIGHT: 90%       # default
-          WIDTH: 90%        # default
+          HEIGHT: 85%       # default
+          WIDTH: 85%        # default
           ALIGN: center        # default
-          IMG_ALT: Image ALT #image alt to be displayed if image is not mapped correctly
+          IMG_ALT: image_generator #image alt to be displayed if image is not mapped correctly

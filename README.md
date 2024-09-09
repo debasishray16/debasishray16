@@ -121,7 +121,7 @@ technical_background:
 
 <div align="center">
 
-  ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
   
 </div>
 
@@ -158,6 +158,24 @@ technical_background:
 </div>
   
 ###
+<!--START_SECTION:waka-->
+
+```python
+From: 10 March 2024 - To: 08 September 2024
+
+Total Time: 75 hrs 20 mins
+
+Markdown      29 hrs 52 mins  ##########---------------   38.22 %
+Python        16 hrs 25 mins  #####--------------------   21.01 %
+JavaScript    13 hrs 11 mins  ####---------------------   16.87 %
+Terraform     4 hrs 44 mins   ##-----------------------   06.06 %
+Other         2 hrs 48 mins   #------------------------   03.59 %
+Java          1 hr 52 mins    #------------------------   02.40 %
+CSS           1 hr 51 mins    #------------------------   02.38 %
+```
+
+<!--END_SECTION:waka-->
+###
 
 <div align="center">
     <a href="https://git.io/streak-stats">
@@ -183,20 +201,3 @@ technical_background:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
 
-<!--START_SECTION:waka-->
-
-```python
-From: 10 March 2024 - To: 08 September 2024
-
-Total Time: 75 hrs 20 mins
-
-Markdown      29 hrs 52 mins  ##########---------------   38.22 %
-Python        16 hrs 25 mins  #####--------------------   21.01 %
-JavaScript    13 hrs 11 mins  ####---------------------   16.87 %
-Terraform     4 hrs 44 mins   ##-----------------------   06.06 %
-Other         2 hrs 48 mins   #------------------------   03.59 %
-Java          1 hr 52 mins    #------------------------   02.40 %
-CSS           1 hr 51 mins    #------------------------   02.38 %
-```
-
-<!--END_SECTION:waka-->

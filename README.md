@@ -347,7 +347,7 @@ technical_background:
 <h2></h2>
 
 <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
 </a>
 
 <div>

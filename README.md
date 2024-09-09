@@ -41,7 +41,7 @@
 
 <h2> About </h3>
 
-<img align="left" src="images/Solo-Leveling-PNG.png" width="40%"/>
+<img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
 
 ```csharp

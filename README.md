@@ -1,6 +1,6 @@
 
 &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Shadow%20Garden%20Members&left_color=black&right_color=red"/>
-[![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9) [![Badge](https://99zpyf3fyaos.runkit.sh)](https://git.io/gradientbadge)
+[![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)
 
 <br clear="both">
 
@@ -9,10 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 
 </div>
-
-
-<h1 align="center"></h1>
-
 
 <div align="center">
 
@@ -47,13 +43,20 @@
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
 ```cpp
+Profile Version: 3.1
+--------------------
+Level: 十五
+-----------
 Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: 4th-Year Undergrad. Computer Science Student
+WhoamI: 4th-Year Undergrad. Computer Science Student (コンピュータサイエンスの学生)
 OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
+Shell: PowerShell v5.1.22
+Terminal: Visual Studio Code
+
 Location: Chennai
 Education: SRM Institute of Science & Technology, KTR
 
-Fields_of_interests:
+Interests:
   - IoT Development (Arduino, Raspberry Pi)
   - Web Development (Back-End Development)
   - ML/DL (Time-Series, Neural Networks)
@@ -65,7 +68,13 @@ Technical_background:
   - Intern - Python Developer
   - Intern - Machine Learning & Data Science
 
-hobbies: Cycling, Programming, Cooking
+Hobbies: Cycling, Programming, Cooking
+Learning: Docker, Kubernetes, AWS, React, TailwindCSS
+Languages: C++, JS, C, Python
+Fav_Subject: Computer Networks, PCB Design
+
+-------------
+"自分が立っている場所が頂点だと決めたら、私は決して動かない。"
 ```
 
 <br clear="both">

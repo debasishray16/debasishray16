@@ -15,17 +15,15 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=100&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
 
-  <img height="205px" src="https://media1.tenor.com/m/D4EmVsewkTUAAAAC/i-need-more-power-animefan27.gif"/>
-
 </div>
 
+<div>
 <h2 align="center">" 私、デバシッシュ・レイ（獅堂影能）が、Shadow Gardenへようこそ。"</h2>
-
-<p align="left">「私は…原子だ。」 「自分が立っている場所を頂上と決めたら、もう動かない。」 「今、私はビルの頂上から劇的に飛び降りる。これで、死ぬまでにやりたいことリストの項目がまたひとつ増えた！」 「子供の不安を無視すると、非行に走る。」 「私は自分のものを取り戻す。全部だ。」</p>
-
-<div align="center">
-  <img src="images/John Smith.png" height="90%" width="90%">
 </div>
+
+<p align="left">「私は…原子だ。」
+「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
+
  
 <div align="center">
 <a href="https://github.com/marketplace/actions/update-image-readme">
@@ -45,36 +43,23 @@
 
 
 ```csharp
-name: Debasish Ray (デバシッシュ・レイ)
+Username: Debasish Ray (デバシッシュ・レイ)
+WhoamI: 4th-Year Undergrad.Computer Science Student
+OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS
+Location: Chennai
+Education:SRM Institute of Science & Technology, KTR
 
-located_in: Kattankulathur, Chennai
-current_pos: Fourth-Year Undergraduate Student
+Fields_of_interests:
+ - IoT Development
+ - Web Development
+ - Machine Learning
+ - DevOps
 
-education:
-    [
-        {"1th-8th": Holy Angels' School, Delhi},
-        {"9th-12th": St. Claret School, Guwahati}
-    ]
-college: SRM Institute of Science and Technology, KTR
-
-fields_of_interests:
-    [
-        "IoT Development",
-        "Web Development",
-        "Machine Learning",
-        "Networking",
-        "UI/UX",
-        "DevOps"
-    ]
-
-technical_background:
-    [
-        "Front-End Web Developer",
-        "UI/UX Developer",
-        "Intern - Python Developer"
-        "Intern - Machine Learning and Data Science"
-    ]
-
+Technical_background:
+ - Front-End Web Developer
+ - UI/UX Developer
+ - Intern - Python Developer
+ - Intern - Machine Learning & Data Science
 ```
 
 <br clear="both">

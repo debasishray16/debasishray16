@@ -15,3 +15,12 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: -#
+          LANG_COUNT: 7
+          CODE_LANG: python
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          TIME_RANGE: last_6_months

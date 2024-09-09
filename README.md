@@ -7,9 +7,12 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
+
 </div>
 
+
 <h1 align="center"></h1>
+
 
 <div align="center">
 
@@ -17,15 +20,18 @@
 
 </div>
 
+
 <div>
 <h2 align="center">" 私、デバシッシュ・レイ（獅堂影能）が、Shadow Gardenへようこそ。"</h2>
 </div>
+
 
 <p align="left">「私は…原子だ。」
 「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
 
  
 <div align="center">
+
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/The-Eminence-in-Shadow-Shadow-Garden.jpg?token=AJ7VCKXNOFA2KVNTNALDNV3G33NZXAVPNFXHG5DBNRWGC5DJN5XF62LEZZ24VNTKWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
@@ -34,7 +40,6 @@
 
 </div>
 
-
 <br clear="both">
 
 <h2> About </h3>
@@ -42,33 +47,36 @@
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
 
-```csharp
+```cpp
 Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: 4th-Year Undergrad.Computer Science Student
-OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS
+WhoamI: 4th-Year Undergrad. Computer Science Student
+OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
 Location: Chennai
-Education:SRM Institute of Science & Technology, KTR
+Education: SRM Institute of Science & Technology, KTR
 
 Fields_of_interests:
- - IoT Development
- - Web Development
- - Machine Learning
- - DevOps
+  - IoT Development (Arduino, Raspberry Pi)
+  - Web Development (Back-End Development)
+  - ML/DL (Time-Series, Neural Networks)
+  - DevOps (Infrastructure-Deployments)
 
 Technical_background:
- - Front-End Web Developer
- - UI/UX Developer
- - Intern - Python Developer
- - Intern - Machine Learning & Data Science
+  - Front-End Web Developer
+  - UI/UX Developer
+  - Intern - Python Developer
+  - Intern - Machine Learning & Data Science
+
+hobbies: Cycling, Programming, Cooking
 ```
 
 <br clear="both">
 
 <div align="center">
+
 <p>
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true)"/>
-</a>
+  </a>
 </p>
 </div>
 <br clear="both">

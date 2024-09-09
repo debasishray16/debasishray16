@@ -15,7 +15,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=100&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
 
-  <img height="350" src="https://media1.tenor.com/m/D4EmVsewkTUAAAAC/i-need-more-power-animefan27.gif"/>
+  <img height="205px" src="https://media1.tenor.com/m/D4EmVsewkTUAAAAC/i-need-more-power-animefan27.gif"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <h2> About </h3>
 
-<img align="left" src="images/Jinwoo.jpeg" width="40%"/>
+<img align="left" src="images/Solo-Leveling-PNG.png" width="40%"/>
 
 
 ```csharp
@@ -136,10 +136,11 @@ technical_background:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
 
-<a href="https://github.com/kawarimidoll/typograssy">
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
-</a>
-
+  </a>
+</div>
 
 <h2 align="left">🔥 Statisitics</h2>
 

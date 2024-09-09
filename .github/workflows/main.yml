@@ -31,6 +31,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          
+           - palette:'github-dark'
+           - color_snake:'blue'
+           
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.gif
@@ -38,14 +42,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Show build status
         run: git status
 
       - name: Push new files to output branch 
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations

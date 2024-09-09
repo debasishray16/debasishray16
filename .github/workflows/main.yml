@@ -40,6 +40,7 @@ jobs:
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=blue&color_dots=#31bbf0,#2ba4d2,#258cb4,#1f7596,#195d78
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # show the status of the build. Makes it easier for debugging (if there's any issues).

@@ -185,12 +185,18 @@ technical_background:
 
 <!--START_SECTION:waka-->
 
-```txt
-Markdown      36 mins         ███████████▒░░░░░░░░░░░░░   44.92 %
-YAML          26 mins         ████████░░░░░░░░░░░░░░░░░   32.26 %
-Git           9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Image (svg)   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Git Config    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+```python
+From: 10 March 2024 - To: 08 September 2024
+
+Total Time: 75 hrs 20 mins
+
+Markdown      29 hrs 52 mins  ##########---------------   38.22 %
+Python        16 hrs 25 mins  #####--------------------   21.01 %
+JavaScript    13 hrs 11 mins  ####---------------------   16.87 %
+Terraform     4 hrs 44 mins   ##-----------------------   06.06 %
+Other         2 hrs 48 mins   #------------------------   03.59 %
+Java          1 hr 52 mins    #------------------------   02.40 %
+CSS           1 hr 51 mins    #------------------------   02.38 %
 ```
 
 <!--END_SECTION:waka-->

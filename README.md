@@ -46,7 +46,6 @@
 
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
-
 ```cpp
 Username: Debasish Ray (デバシッシュ・レイ)
 WhoamI: 4th-Year Undergrad. Computer Science Student

@@ -184,4 +184,13 @@ technical_background:
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown      36 mins         ███████████▒░░░░░░░░░░░░░   44.92 %
+YAML          26 mins         ████████░░░░░░░░░░░░░░░░░   32.26 %
+Git           9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Image (svg)   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Git Config    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+```
+
 <!--END_SECTION:waka-->

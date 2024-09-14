@@ -40,7 +40,7 @@
 
 <h2> About </h3>
 
-<img align="left" src="images/Kiyotaka-Ayanokoji-Classroom-of-the-Elite-anime-high-school-transparent-PNG-image.png" width="45%"/>
+<img align="left" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="45%"/>
 
 ```cpp
 Profile Version: 3.1
@@ -79,14 +79,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <br clear="both">
 
-<div align="center">
 
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true)"/>
-  </a>
-</p>
-</div>
 <br clear="both">
 
 <h2 align="left">🛠 Language and Tools</h2>
@@ -117,16 +110,18 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
- <h2>📈 My Grinds </h2>
+<h2>📈 My Grinds </h2>
+
 <div>
 
-<div align="center">
+  <div align="center">
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Taurus_Silver1?theme=dark&font=Andika&ext=heatmap) ![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Taurus_Silver1?theme=dark&font=Andika&ext=heatmap) ![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
 
-  
+  <img align="left" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="45%"/>
+  </div>
 </div>
 
 <h2>🚧 Work in Progress</h2>
@@ -205,3 +200,11 @@ CSS           1 hr 51 mins    #------------------------   02.47 %
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
 
+<div align="center">
+
+<p>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true)"/>
+  </a>
+</p>
+</div>

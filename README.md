@@ -118,7 +118,7 @@ Fav_Subject: Computer Networks, PCB Design
 
   ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Taurus_Silver1?theme=dark&font=Andika) ![CodeForces](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Taurus_Silver1?theme=dark&font=Andika) ![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
 
  </div>
 </div>
@@ -142,8 +142,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <h2 align="left">🔥 Statisitics</h2>
 
-<img align="right" src="images/Sakayanagi.png" width="45%"/>
-###
+<img align="right" src="images/Isagi-from-Blue-Lock-transparent-PNG-image.png" width="45%"/>
 
 ###
 

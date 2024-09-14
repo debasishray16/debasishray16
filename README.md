@@ -142,7 +142,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <h2 align="left">🔥 Statisitics</h2>
 
-<img align="right" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="45%"/>
+<img align="right" src="images/Sakayanagi.png" width="45%"/>
 ###
 
 ###

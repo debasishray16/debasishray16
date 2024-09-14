@@ -188,7 +188,8 @@ CSS           1 hr 51 mins    #------------------------   02.47 %
 
 
 <div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="80%" width="80%"/>
+<img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="50%" width="50%"/>
+<img align="right" src="images/Kakeru-Ryuuen-Kiyotaka-Ayanokoji.png" width="45%"/>
 </div>
 
 <h2></h2>

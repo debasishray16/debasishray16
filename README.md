@@ -40,7 +40,7 @@
 
 <h2> About </h3>
 
-<img align="left" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="35%"/>
+<img align="left" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="55%"/>
 
 ```cpp
 Profile Version: 3.1

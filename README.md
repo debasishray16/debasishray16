@@ -40,7 +40,7 @@
 
 <h2> About </h3>
 
-<img align="left" src="images/Sung-Jinwoo-solo-leveling-anime-main-character-transparent-PNG-image.png" width="45%"/>
+<img align="left" src="images/Kiyotaka-Ayanokoji-Classroom-of-the-Elite-anime-high-school-transparent-PNG-image.png" width="45%"/>
 
 ```cpp
 Profile Version: 3.1

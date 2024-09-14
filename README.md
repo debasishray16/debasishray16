@@ -30,7 +30,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/The-Eminence-in-Shadow-Shadow-Garden.jpg?token=AJ7VCKQWMDMWMPYHXHKCHK3G4TSEBAVPNFXHG5DBNRWGC5DJN5XF62LEZZ4TXLZ2WFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Beta.jpg?token=AJ7VCKXAZOZQR3W44JWML5LG4VGWPAVPNFXHG5DBNRWGC5DJN5XF62LEZZ4VNIKDWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

@@ -123,6 +123,9 @@ Fav_Subject: Computer Networks, PCB Design
 <div align="center">
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Taurus_Silver1?theme=dark&font=Andika&ext=heatmap) ![](https://raw.githubusercontent.com/debasishray16/DevRev/main/output/light_card.svg#gh-dark-mode-only)
+
   
 </div>
 

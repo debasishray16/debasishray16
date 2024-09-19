@@ -30,7 +30,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Gamma.jpg?token=AJ7VCKVG56AOC6I77DFCHQDG5N6GLAVPNFXHG5DBNRWGC5DJN5XF62LEZZ6A7MJ4WFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Eta.jpg?token=AJ7VCKW3RCA5JBFOJVZO5F3G5RWVVAVPNFXHG5DBNRWGC5DJN5XF62LEZZ6KN7QQWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

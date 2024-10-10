@@ -30,7 +30,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow-Garden-shadow-Cid-Kagenou.jpg?token=AJ7VCKQ3GEC75LLO6S5KWKTHA4WENAVPNFXHG5DBNRWGC5DJN5XF62LEZ2FXAKOMWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow-2.png?token=AJ7VCKW6DDNQTCVS3Q3VCHTHA5DVDAVPNFXHG5DBNRWGC5DJN5XF62LEZ2FYWQ7HWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

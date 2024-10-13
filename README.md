@@ -162,16 +162,16 @@ Fav_Subject: Computer Networks, PCB Design
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 April 2024 - To: 10 October 2024
+From: 12 April 2024 - To: 11 October 2024
 
-Total Time: 70 hrs 22 mins
+Total Time: 72 hrs 13 mins
 
-Markdown      29 hrs 34 mins  ##########---------------   40.42 %
-Python        21 hrs 24 mins  #######------------------   29.26 %
-Terraform     4 hrs 44 mins   ##-----------------------   06.47 %
-Docker        3 hrs 44 mins   #------------------------   05.12 %
-Other         2 hrs 47 mins   #------------------------   03.81 %
-Text          2 hrs 19 mins   #------------------------   03.18 %
+Markdown      31 hrs 35 mins  ###########--------------   42.12 %
+Python        21 hrs 9 mins   #######------------------   28.20 %
+Terraform     4 hrs 44 mins   ##-----------------------   06.31 %
+Docker        3 hrs 44 mins   #------------------------   04.99 %
+Other         2 hrs 47 mins   #------------------------   03.72 %
+Text          2 hrs 19 mins   #------------------------   03.10 %
 ```
 
 <!--END_SECTION:waka-->

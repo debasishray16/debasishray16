@@ -30,7 +30,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Blood%20Queen.jpeg?token=AJ7VCKS5SUGD7EX4OGQ7H33HCBTOXAVPNFXHG5DBNRWGC5DJN5XF62LEZ2IMBBHKWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow-Garden-shadow-Cid-Kagenou.jpg?token=AJ7VCKTCEDNWTW2VYBYZZGLHCFKCDAVPNFXHG5DBNRWGC5DJN5XF62LEZ2IXY6LPWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

@@ -190,7 +190,6 @@ Text          2 hrs 14 mins   #------------------------   03.08 %
 
 ![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
-<img src="https://raw.githubusercontent.com/debasishray16/debasishray16/output/snake.svg" alt="Snake animation" />
 
 
 <div>

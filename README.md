@@ -188,7 +188,7 @@ Text          2 hrs 21 mins   #------------------------   03.17 %
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=90&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=70&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
 
 </div>
 

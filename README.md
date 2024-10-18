@@ -2,25 +2,17 @@
 &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=debasishray16.debasishray16&left_text=Shadow%20Garden%20Members&left_color=black&right_color=red"/>
 [![wakatime](https://wakatime.com/badge/user/018c6347-ea45-4be7-9e4a-3ad63a132bc9.svg)](https://wakatime.com/@018c6347-ea45-4be7-9e4a-3ad63a132bc9)
 
-<br clear="both">
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 
 </div>
 
-<div align="center">
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=100&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
-
-</div>
 
 
 <div>
-<h2 align="center">" 私、デバシッシュ・レイ（獅堂影能）が、Shadow Gardenへようこそ。"</h2>
+  <h2 align="center">"私、デバシッシュ（影野士道）が、シャドウガーデンへようこそお越し下さいました。"</h2>
 </div>
-
 
 <p align="left">「私は…原子だ。」
 「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
@@ -38,7 +30,7 @@
 
 <br clear="both">
 
-<h2> About </h3>
+<h2> About (私自身) </h3>
 
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
@@ -77,7 +69,7 @@ Fav_Subject: Computer Networks, PCB Design
 "自分が立っている場所が頂点だと決めたら、私は決して動かない。"
 ```
 
-<br clear="both">
+
 
 <div align="center">
 
@@ -87,7 +79,7 @@ Fav_Subject: Computer Networks, PCB Design
   </a>
 </p>
 </div>
-<br clear="both">
+
 
 <h2 align="left">🛠 Language and Tools</h2>
 
@@ -107,7 +99,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
-  <h2>🤖 AI/MLの仕組み</h2>
+  <h2>🤖 AI/ML の 仕組み</h2>
 
 <div>
   
@@ -126,6 +118,12 @@ Fav_Subject: Computer Networks, PCB Design
   
 </div>
 
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
+  </a>
+</div>
+
 <h2>🚧 Work in Progress</h2>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
@@ -137,23 +135,14 @@ Fav_Subject: Computer Networks, PCB Design
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
 
-<div align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
-  </a>
-</div>
+
 
 <h2 align="left">🔥 Statisitics</h2>
 
-###
-
-###
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debasishray16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishray16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=debasishray16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishray16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="190" alt="languages graph"  />
   <div>
   <div>
 </div>
@@ -192,13 +181,20 @@ Text          2 hrs 21 mins   #------------------------   03.17 %
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
 
 
+<div align="center">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=90&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>
+
+</div>
+
+
 <div>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
 </div>
 
-<h2></h2>
+
 
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
-
+<h2></h2>

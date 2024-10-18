@@ -147,6 +147,19 @@ Fav_Subject: Computer Networks, PCB Design
   <div>
 </div>
   
+![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=debasishray16&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=486&background=80%2C280B18F1%2C2B1DDEF1&sideNums=EB0707&currStreakNum=EB0000&dates=D41BEB&border=EB5454&stroke=5F36EB&ring=6728EB&fire=C336EB&currStreakLabel=EB120D&sideLabels=EB2E1B&excludeDaysLabel=EB1A0D" alt="GitHub Streak" />
+      </a>
+</div>
+
+###
+
+[![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
+
 ###
 <!--START_SECTION:waka-->
 
@@ -166,20 +179,12 @@ Text          2 hrs 21 mins   #------------------------   03.17 %
 <!--END_SECTION:waka-->
 ###
 
-<div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=debasishray16&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=486&background=80%2C280B18F1%2C2B1DDEF1&sideNums=EB0707&currStreakNum=EB0000&dates=D41BEB&border=EB5454&stroke=5F36EB&ring=6728EB&fire=C336EB&currStreakLabel=EB120D&sideLabels=EB2E1B&excludeDaysLabel=EB1A0D" alt="GitHub Streak" />
-      </a>
+
+
+
+<div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
 </div>
-
-###
-
-[![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
-
 
 <div align="center">
 
@@ -187,14 +192,7 @@ Text          2 hrs 21 mins   #------------------------   03.17 %
 
 </div>
 
-
-<div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
-</div>
-
-
-
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
-<h2></h2>
+

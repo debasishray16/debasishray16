@@ -22,7 +22,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Epsilon.jpg?token=AJ7VCKXN2UWJ6YC24PLEWTDHCPKILAVPNFXHG5DBNRWGC5DJN5XF62LEZ2JNJWGMWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Cid-Kagenou.jpg?token=AJ7VCKR7ACR7FMWTO3BS7L3HCPKR5AVPNFXHG5DBNRWGC5DJN5XF62LEZ2JNJWGMWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

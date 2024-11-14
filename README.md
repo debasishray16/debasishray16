@@ -22,7 +22,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Epsilon.jpg?token=AJ7VCKV4JKBY3ZLCGJWMFWTHGP7VNAVPNFXHG5DBNRWGC5DJN5XF62LEZ2SXPUPCWFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Eminence-in-Shadow-Shadow-Garden.jpg?token=AJ7VCKQ2MAL2GV3PPBSSHLDHGVINTAVPNFXHG5DBNRWGC5DJN5XF62LEZ2TGDPQ4WFUW443UMFWGYYLUNFXW4X3UPFYGLWQAEFJWS5DFKNRW64DFMREW45DFM5ZGC5DJN5XES3TTORQWY3DBORUW63Q height=85% width=85% align=center alt=image_generator />
 <!--END_SECTION:update_image-->
 </a>
 

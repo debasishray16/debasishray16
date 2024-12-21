@@ -164,7 +164,7 @@ Fav_Subject: Computer Networks, PCB Design
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 June 2024 - To: 18 December 2024
+From: 20 June 2024 - To: 19 December 2024
 
 Total Time: 85 hrs 45 mins
 

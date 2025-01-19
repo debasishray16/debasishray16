@@ -199,5 +199,5 @@ C++           1 hr 8 mins     -------------------------   01.50 %
 
 ### 👀 Social Media
 
-| ![](https://raw.githubusercontent.com/debasishray16/debasishray16/main/assets/left.svg) | ![](https://raw.githubusercontent.com/debasishray16/debasishray16/main/assets/right.svg) |
+| ![](/assets/left.svg) | ![](/assets/right.svg) |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |

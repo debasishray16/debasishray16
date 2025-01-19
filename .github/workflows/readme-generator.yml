@@ -18,7 +18,7 @@ jobs:
           plugin_stars_limit: 3
           plugin_achievements: yes
           plugin_achievements_display: compact
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: 🐈‍⬛ Rihgt
         uses: lowlighter/metrics@latest
@@ -32,4 +32,4 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 22
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}

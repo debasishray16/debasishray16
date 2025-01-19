@@ -23,7 +23,7 @@ jobs:
       - name: 🐈‍⬛ Rihgt
         uses: lowlighter/metrics@latest
         with:
-          config_order: anilist, steam
+          config_order: anilist
           filename: assets/right.svg
           base: ''
           plugin_anilist_user: 'TaurusSilver1'

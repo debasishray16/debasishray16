@@ -1,0 +1,35 @@
+name: Readme Generator
+on:
+  schedule: [{ cron: '0 0 * * *' }]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🐈‍⬛ Left
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/left.svg
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, starts, achievements
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: 🐈‍⬛ Rihgt
+        uses: lowlighter/metrics@latest
+        with:
+          config_order: anilist, steam
+          filename: assets/right.svg
+          base: ''
+          plugin_anilist_user: 'TaurusSilver1'
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 22
+          token: ${{ secrets.GH_TOKEN }}

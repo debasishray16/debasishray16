@@ -9,15 +9,11 @@
 </div>
 
 
-
 <div>
-  <h2 align="center">"私、デバシッシュ（影野士道）が、シャドウガーデンへようこそお越し下さいました。"</h2>
+  <h3 align="center">"私、デバシッシュ（影野士道）が"</h2>
+  <h3 align="center">シャドウガーデンへようこそお越し下さいました。</h2>
 </div>
 
-<p align="left">「私は…原子だ。」
-「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
-
- 
 <div align="center">
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
@@ -30,12 +26,17 @@
 
 <br clear="both">
 
-<h2> About (私自身) </h3>
+<p align="left">「私は…原子だ。」
+「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
+
+<br clear="both">
+
+<h2> About (私自身) </h2>
 
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 
 ```cpp
-Profile Version: 3.1
+Profile Version: 3.2
 --------------------
 Level: 十五
 -----------
@@ -53,12 +54,6 @@ Interests:
   - Web Development (Back-End Development)
   - ML/DL (Time-Series, Neural Networks)
   - DevOps (Infrastructure-Deployments)
-
-Technical_background:
-  - Front-End Web Developer
-  - UI/UX Developer
-  - Intern - Python Developer
-  - Intern - Machine Learning & Data Science
 
 Hobbies: Cycling, Programming, Cooking
 Learning: Docker, Kubernetes, AWS, React, TailwindCSS
@@ -161,6 +156,7 @@ Fav_Subject: Computer Networks, PCB Design
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
 
 ###
+
 <!--START_SECTION:waka-->
 
 ```python
@@ -189,6 +185,7 @@ C++           1 hr 8 mins     -------------------------   01.50 %
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
 </div>
 
+<br clear="both">
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=70&lines=%E7%A7%81%E3%81%AF%E5%8E%9F%E5%AD%90%E3%81%A7%E3%81%99%E3%80%82;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BD%B1%E3%81%AE%E5%BA%AD%E3%81%A7%E3%81%99;..." alt="Typing SVG" /></a>

@@ -17,7 +17,8 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed  # compact also available
+          plugin_achievements_threshold: X
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Right
@@ -32,5 +33,7 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 22
+          plugin_anilist_shuffle: yes
           token: ${{ secrets.METRICS_TOKEN }}
+
 

@@ -240,3 +240,7 @@ C++           1 hr 8 mins     -------------------------   01.50 %
 [Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
 [Raspberry Pi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
 [Zigbee]: https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<h2> About (私自身) </h2>
+<h2> About 私自身 </h2>
 
 <img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
 

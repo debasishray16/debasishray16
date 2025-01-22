@@ -9,8 +9,8 @@
 </div>
 
 <div>
-  <h3 align="center">"私、デバシッシュ（影野士道）が"</h2>
-  <h3 align="center">シャドウガーデンへようこそお越し下さいました。</h2>
+  <h3 align="center">"私、デバシッシュ（影野士道）が"</h3>
+  <h3 align="center">シャドウガーデンへようこそお越し下さいました。</h3>
 </div>
 
 <div align="center">
@@ -22,11 +22,6 @@
 </a>
 
 </div>
-
-<br clear="both">
-
-<p align="left">「私は…原子だ。」
-「自分が立っている場所が頂点だと決めたら、私は決して動かない。」</p>
 
 <br clear="both">
 
@@ -76,7 +71,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center">
 
-![][C++] ![][C] ![][Python] ![][JavaScript] ![][MySQL] ![][SQLite] ![][Markdown]  ![][Shell Script] ![][YAML] ![][Firebase] ![][Arduino] ![][Terraform] ![][AWS] ![][Anaconda]| ![][Figma]| ![][Bootstrap] ![][NPM] ![][CSS3] ![][HTML5]
+![][C++] ![][C] ![][Python] ![][JavaScript] ![][MySQL] ![][SQLite] ![][Markdown]  ![][Shell Script] ![][YAML] ![][Firebase] ![][Arduino] ![][Terraform] ![][AWS] ![][Anaconda] ![][Figma] ![][Bootstrap] ![][NPM] ![][CSS3] ![][HTML5]
 
 </div>
 

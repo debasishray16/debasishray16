@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          HEIGHT: 85%       # default
-          WIDTH: 85%        # default
+          HEIGHT: 95%       # default
+          WIDTH: 95%        # default
           ALIGN: center        # default
-          IMG_ALT: image_generator #image alt to be displayed if image is not mapped correctly
+          IMG_ALT: image_generated #image alt to be displayed if image is not mapped correctly

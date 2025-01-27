@@ -184,7 +184,7 @@ C++           1 hr 22 mins    -------------------------   01.76 %
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
 </div>
 
-[![Debasish's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=debasishray3275)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 <!-- SHIELD GROUP -->
 
 [C++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white

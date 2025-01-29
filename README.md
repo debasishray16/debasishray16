@@ -136,7 +136,7 @@ Fav_Subject: Computer Networks, PCB Design
   <div>
 </div>
   
-![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
     <a href="https://git.io/streak-stats">

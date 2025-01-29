@@ -125,7 +125,9 @@ Fav_Subject: Computer Networks, PCB Design
 
 <h3> 🔬 Currently Working on: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
 
 <h2 align="left">🔥 Statisitics</h2>
 

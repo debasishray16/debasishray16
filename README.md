@@ -35,7 +35,8 @@ Profile Version: 3.2
 Level: 十五
 -----------
 Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: 4th-Year Undergrad. Computer Science Student (コンピュータサイエンスの学生)
+WhoamI: 4th-Year Undergrad. Computer Science Student 
+        (コンピュータサイエンスの学生)
 OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
 Shell: PowerShell v5.1.22
 Terminal: Visual Studio Code

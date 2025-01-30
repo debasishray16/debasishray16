@@ -96,7 +96,20 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
- <h2>📈 My Grinds </h2>
+<h2>🚧 Work in Progress</h2>
+
+![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
+
+<h3> 🔬 Currently Working on: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
+
+<h2>📈 My Grinds </h2>
 <div>
 
 <div align="center">
@@ -115,19 +128,6 @@ Fav_Subject: Computer Networks, PCB Design
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
   </a>
 </div>
-
-<h2>🚧 Work in Progress</h2>
-
-![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
-
-<h3> 🔬 Currently Working on: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
 
 <h2 align="left">🔥 Statisitics</h2>
 

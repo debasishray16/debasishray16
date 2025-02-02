@@ -67,16 +67,19 @@ Fav_Subject: Computer Networks, PCB Design
   </a>
 </p>
 </div>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3 align="left">🛠 Language and Tools</h3>
 
-<h2 align="left">🛠 Language and Tools</h2>
 
 <div align="center">
 
 ![][C++] ![][C] ![][Python] ![][JavaScript] ![][MySQL] ![][SQLite] ![][Markdown]  ![][Shell Script] ![][YAML] ![][Firebase] ![][Arduino] ![][Terraform] ![][AWS] ![][Anaconda] ![][Figma] ![][Bootstrap] ![][NPM] ![][CSS3] ![][HTML5]
 
 </div>
-
-<h2>🔍 私の拠点</h2>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3>🔍 私の拠点</h3>
 
 <div>
   
@@ -86,7 +89,9 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
-  <h2>🤖 AI/ML の 仕組み</h2>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3>🤖 AI/ML の 仕組み</h3>
 
 <div>
   
@@ -96,20 +101,28 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 
-<h2>🚧 Work in Progress</h2>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3>🚧 Work in Progress</h3>
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=WeatherCast&theme=dark)](https://github.com/debasishray16/WeatherCast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 <h3> 🔬 Currently Working on: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
 
-<h2>📈 My Grinds </h2>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3>📈 My Grinds </h>
+<hr>
+
 <div>
 
 <div align="center">
@@ -129,7 +142,9 @@ Fav_Subject: Computer Networks, PCB Design
   </a>
 </div>
 
-<h2 align="left">🔥 Statisitics</h2>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<h3 align="left">🔥 Statisitics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debasishray16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />

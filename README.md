@@ -68,7 +68,8 @@ Fav_Subject: Computer Networks, PCB Design
 </p>
 </div>
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
 <h3 align="left">🛠 Language and Tools</h3>
 
 
@@ -78,7 +79,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 </div>
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>🔍 私の拠点</h3>
 
 <div>
@@ -90,7 +91,7 @@ Fav_Subject: Computer Networks, PCB Design
 </div>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>🤖 AI/ML の 仕組み</h3>
 
 <div>
@@ -102,7 +103,7 @@ Fav_Subject: Computer Networks, PCB Design
 </div>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>🚧 Work in Progress</h3>
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
@@ -111,7 +112,7 @@ Fav_Subject: Computer Networks, PCB Design
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=Passwordify&theme=dark)](https://github.com/debasishray16/Passwordify)
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3> 🔬 Currently Working on: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
@@ -119,7 +120,7 @@ Fav_Subject: Computer Networks, PCB Design
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>📈 My Grinds </h>
 <hr>
 
@@ -143,7 +144,7 @@ Fav_Subject: Computer Networks, PCB Design
 </div>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔥 Statisitics</h3>
 
 <div align="center">

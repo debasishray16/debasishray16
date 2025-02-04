@@ -122,7 +122,8 @@ Fav_Subject: Computer Networks, PCB Design
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3>📈 My Grinds </h>
-<hr>
+
+###
 
 <div>
 
@@ -147,12 +148,7 @@ Fav_Subject: Computer Networks, PCB Design
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔥 Statisitics</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debasishray16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishray16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="190" alt="languages graph"  />
-  <div>
-  <div>
-</div>
+
   
 ![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
 

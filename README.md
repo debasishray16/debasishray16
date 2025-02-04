@@ -148,7 +148,6 @@ Fav_Subject: Computer Networks, PCB Design
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3 align="left">🔥 Statisitics</h3>
 
-
   
 ![snake gif](https://github.com/debasishray16/debasishray16/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -161,9 +160,12 @@ Fav_Subject: Computer Networks, PCB Design
 ###
 
 [![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasishray16&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasishray16&theme=github_dark)
 
-###
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -184,8 +186,8 @@ C++           1 hr 34 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ###
 
-<div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xrdWV0ZXpvdWIxamcxeXJ6YnhkYW93YmlxY2o2MGdlc2N6anc0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VY0W2ezm5S8biSuGao/giphy.gif" height="250">
 </div>
 
 <br clear="both">

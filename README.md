@@ -17,7 +17,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Blood%20Queen.jpeg?token=AJ7VCKXB36DOR5ZKNX75HPTHXM5C3AVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAABAABPNNFRNFXHG5DBNRWGC5DJN5XF65DZOBS5UABBKNUXIZKTMNXXAZLEJFXHIZLHOJQXI2LPNZEW443UMFWGYYLUNFXW4 height=97% width=97% align=center alt=generated_image />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/alpha.jpg?token=AJ7VCKWQXATQLXTR2S2UCQTHXNSRTAVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAABAALO3TFRNFXHG5DBNRWGC5DJN5XF65DZOBS5UABBKNUXIZKTMNXXAZLEJFXHIZLHOJQXI2LPNZEW443UMFWGYYLUNFXW4 height=97% width=97% align=center alt=generated_image />
 <!--END_SECTION:update_image-->
 </a>
 

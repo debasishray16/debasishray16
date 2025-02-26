@@ -17,7 +17,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow3.jpg?token=AJ7VCKRAUJWXCLEUBS44DQLHX4XTXAVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAABAPCBNRNRNFXHG5DBNRWGC5DJN5XF65DZOBS5UABBKNUXIZKTMNXXAZLEJFXHIZLHOJQXI2LPNZEW443UMFWGYYLUNFXW4 height=97% width=97% align=center alt=generated_image />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow3.jpg?token=AJ7VCKSL4Y5UVVDC55VFOGDHX5NA7AVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAABAP3T3J5RNFXHG5DBNRWGC5DJN5XF65DZOBS5UABBKNUXIZKTMNXXAZLEJFXHIZLHOJQXI2LPNZEW443UMFWGYYLUNFXW4 height=97% width=97% align=center alt=generated_image />
 <!--END_SECTION:update_image-->
 </a>
 

@@ -118,6 +118,7 @@ Fav_Subject: Computer Networks, PCB Design
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=StockPredictor&theme=dark)](https://github.com/debasishray16/StockPredictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=ManageStock&theme=dark)](https://github.com/debasishray16/ManageStock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=RFIDLink&theme=dark)](https://github.com/debasishray16/RFIDLink)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debasishray16&repo=SatXtract&theme=dark)](https://github.com/debasishray16/SatXtract)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">

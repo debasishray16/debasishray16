@@ -17,7 +17,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow.png?token=AJ7VCKSOQIXOEEYOEZYR5IDHX6E4LAVPNFXHG5DBNRWGC5DJN5XF62LEZ4AAAAABAQJDP25RNFXHG5DBNRWGC5DJN5XF65DZOBS5UABBKNUXIZKTMNXXAZLEJFXHIZLHOJQXI2LPNZEW443UMFWGYYLUNFXW4 height=97% width=97% align=center alt=generated_image />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Epsilon.jpg height=97% width=97% align=center alt=generated_image />
 <!--END_SECTION:update_image-->
 </a>
 

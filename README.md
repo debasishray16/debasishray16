@@ -154,7 +154,7 @@ Fav_Subject: Computer Networks, PCB Design
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=debasishray16&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=486&background=80%2C280B18F1%2C2B1DDEF1&sideNums=EB0707&currStreakNum=EB0000&dates=D41BEB&border=EB5454&stroke=5F36EB&ring=6728EB&fire=C336EB&currStreakLabel=EB120D&sideLabels=EB2E1B&excludeDaysLabel=EB1A0D" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-iota-neon.vercel.app?user=debasishray16&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=486&background=80%2C280B18F1%2C2B1DDEF1&sideNums=EB0707&currStreakNum=EB0000&dates=D41BEB&border=EB5454&stroke=5F36EB&ring=6728EB&fire=C336EB&currStreakLabel=EB120D&sideLabels=EB2E1B&excludeDaysLabel=EB1A0D" alt="GitHub Streak" />
       </a>
 </div>
 

@@ -17,7 +17,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow-Garden-shadow-Cid-Kagenou.jpg height=97% width=97% align=center alt=generated_image />
+<img src=https://raw.githubusercontent.com/debasishray16/debasishray16/main/.github/images/Shadow.png height=97% width=97% align=center alt=generated_image />
 <!--END_SECTION:update_image-->
 </a>
 
